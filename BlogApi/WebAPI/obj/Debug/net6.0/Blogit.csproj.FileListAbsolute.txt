@@ -1,0 +1,7 @@
+D:\Project\BLOGit-Angular-.net_core\Blogit\Blogit\obj\Debug\net6.0\Blogit.csproj.AssemblyReference.cache
+D:\Project\BLOGit-Angular-.net_core\Blogit\Blogit\obj\Debug\net6.0\Blogit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\BLOGit-Angular-.net_core\Blogit\Blogit\obj\Debug\net6.0\Blogit.AssemblyInfoInputs.cache
+D:\Project\BLOGit-Angular-.net_core\Blogit\Blogit\obj\Debug\net6.0\Blogit.AssemblyInfo.cs
+D:\Project\BLOGit-Angular-.net_core\Blogit\Blogit\obj\Debug\net6.0\Blogit.csproj.CoreCompileInputs.cache
+D:\Project\BLOGit-Angular-.net_core\Blogit\Blogit\obj\Debug\net6.0\Blogit.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\BLOGit-Angular-.net_core\Blogit\Blogit\obj\Debug\net6.0\Blogit.MvcApplicationPartsAssemblyInfo.cache
